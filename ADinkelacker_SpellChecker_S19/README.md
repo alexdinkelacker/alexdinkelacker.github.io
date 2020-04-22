@@ -1,3 +1,7 @@
+# Santa Barbara City College - Professor Strenn - Spring 2019 
+
+* This program highlights the functionality of a spell checker by utilizing a binary search tree. 
+
 # JavaCoreTemplate
 Includes:
 * `Program.java`, with a `main()` that is ready to go, and has useful classes statically imported.
