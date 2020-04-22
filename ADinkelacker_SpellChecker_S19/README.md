@@ -1,6 +1,6 @@
 # Santa Barbara City College - Professor Strenn - Spring 2019 
 
-* This program highlights the functionality of a spell checker by utilizing a binary search tree. 
+* This program highlights the functionality of a `spell checker` by utilizing a `binary search tree`. 
 
 # JavaCoreTemplate
 Includes:
